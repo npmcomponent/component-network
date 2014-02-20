@@ -1,5 +1,5 @@
 {
-  "name": "network-component",
+  "name": "component-network",
   "description": "Measure and detect changes in network performance",
   "version": "0.0.1",
   "keywords": [
@@ -11,17 +11,7 @@
     "performance",
     "perf"
   ],
-  "dependencies": {},
-  "development": {},
-  "license": "MIT",
   "main": "index.js",
-  "component": {
-    "scripts": {
-      "network/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/network.git"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
